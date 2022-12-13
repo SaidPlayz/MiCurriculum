@@ -1,0 +1,85 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{
+background-image: url("https://i.pinimg.com/originals/b2/0e/20/b20e20379e0def016644ab0b4cc1ebda.gif");
+background-image: no-repeat;
+background-image: fixed;
+background-image: center;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+
+.simen{
+    width: 400px;
+    background: #073541;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 20px;
+    font-family: "calibri";
+    box-shadow: 10px 13px 37px rgb(107, 228, 236);
+    backdrop-filter: blur(50px);
+    background-color: transparent;
+    text-align: center;
+}
+
+.simen h4{
+
+    font-size: 22px;
+    margin-bottom: 20px;
+    color: bisque;
+    font-family: sans-serif;
+}
+
+.controls {
+width: 100%;
+background: #063d4d;
+padding: 10px;
+margin-bottom: 16px;
+border: 2px solid #8fceee;
+border-radius: 6px;
+font-family: "calibri";
+font-size: 18px;
+color: rgb(255, 255, 255);
+backdrop-filter: cian("5px");
+
+}
+
+.simen p{
+color: rgb(250, 250, 250);
+font-size: 16px;
+text-align: center;
+height: 40px;
+
+}
+
+.simen a{
+color: rgb(180, 168, 168);
+text-align: center;
+font-size: 16px;
+height: 40px;
+
+
+}
+
+.simen .botoncito{
+    background: rgb(15, 15, 41);
+    width: 100%;
+    border: none;
+    padding: 12px;
+    color: rgb(134, 67, 67);
+    font-size: small;
+    border-radius: 3px;
+    border-radius: 5px;
+    backdrop-filter: (1px);
+    background-color: transparent;
+    border-top:#073541;
+    
+}
+
